@@ -1,2 +1,3 @@
-# portfolio-analise-de-dados
-Portfólio de projetos de análise de dados.
+# análise de dados covid
+# dataset: Our World In Data
+
