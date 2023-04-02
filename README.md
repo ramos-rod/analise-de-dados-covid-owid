@@ -1,3 +1,7 @@
+OBS: O dataset completo (45+ MB) excede os 25MB de limite para upload em repositórios do GitHub. Ele pode ser visto e baixado em:
+https://ourworldindata.org/coronavirus
+
+
 # Análise de Dados COVID-19
 
 Este projeto faz parte do portfólio de Analista de Dados e tem como objetivo demonstrar habilidades relevantes para potenciais empregadores. O projeto tem foco na exploração de extensos dados da COVID-19 para obter insights sobre os fatores que influenciaram as taxas de infecção e mortalidade da COVID-19. Esses fatores incluem condições políticas, geográficas e socioeconômicas, recursos e riqueza, rapidez e firmeza na adesão às medidas recomendadas de saúde e o momento da vacinação.
@@ -14,6 +18,10 @@ A visualização 4 mostra que, em julho de 2021, a Europa teve, em média, uma p
 
 Em conclusão, este projeto demonstra o uso do PowerBI na análise dos dados da COVID-19 para obter insights sobre vários fatores que impactam as taxas de infecção e mortalidade da COVID-19. Esses insights são úteis para entender o impacto de fatores socioeconômicos, entre outros, e podem ser usados para formular políticas eficazes para mitigar seus efeitos.
 
+-------------------------------------------------
+
+OBS: The complete dataset (45+ MB) exceeds the 25MB upload limit for GitHub repository files. It can be viewed and downloaded at:
+https://ourworldindata.org/coronavirus
 
 # COVID-19 Data Analysis
 This project is part of a Data Analyst portfolio that aims to showcase relevant skills for potential employers. The project focuses on exploring extensive COVID-19 data to gain insights on the weight some factors had on the infection and mortality rates of COVID-19. These factors include political, geographical, and socioeconomic conditions, wealth and resources, quickness and firmness of adhesion to recommended healthcare measures, and the timing of vaccination.
