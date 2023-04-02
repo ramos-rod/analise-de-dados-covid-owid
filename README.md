@@ -6,7 +6,7 @@ https://ourworldindata.org/coronavirus
 
 Este projeto faz parte do portfólio de Analista de Dados e tem como objetivo demonstrar habilidades relevantes para potenciais empregadores. O projeto tem foco na exploração de extensos dados da COVID-19 para obter insights sobre os fatores que influenciaram as taxas de infecção e mortalidade da COVID-19. Esses fatores incluem condições políticas, geográficas e socioeconômicas, recursos e riqueza, rapidez e firmeza na adesão às medidas recomendadas de saúde e o momento da vacinação.
 
-O projeto utilizou o conjunto de dados públicos dos relatórios da COVID-19 do Our World in Data. Um ponto de interesse inicial é que, neste conjunto de dados, a América do Norte abrange toda a América do Norte e Central, o que reduz o cálculo médio do PIB per capita.
+O projeto utilizou o dataset público dos relatórios da COVID-19 do Our World in Data. Um ponto de interesse inicial é que, neste conjunto de dados, a América do Norte abrange toda a América do Norte e Central, o que reduz o cálculo médio do PIB per capita.
 
 As observações mostram que, embora uma parcela maior de idosos (65 anos ou mais) ou uma porcentagem maior de fumantes na população possa afetar a taxa de infecção e a gravidade da doença, não é o que mais mata. Em comparação, há uma relação visível entre um menor PIB per capita médio e uma taxa de mortalidade média mais alta.
 
