@@ -1,6 +1,7 @@
+English below
+
 OBS: O dataset completo (45+ MB) excede os 25MB de limite para upload em repositórios do GitHub. Ele pode ser visto e baixado em:
 https://ourworldindata.org/coronavirus
-
 
 # Análise de Dados COVID-19
 
