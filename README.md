@@ -2,6 +2,7 @@
 
 OBS: O dataset completo (45+ MB) excede os 25MB de limite para upload em repositórios do GitHub. Ele pode ser visto e baixado em:
 https://ourworldindata.org/coronavirus
+
 As queries SQL disponíveis nesse repositório são relativas ao mesmo dataset, porém em um momento anterior em que o projeto havia sido executado mais cruamente no Tableau. Nesta versão do projeto, a importação do dataset diretamente para o PowerBI resultou em um tempo de carregamento "não-instantâneo" durante a manipulação e filtragem inicial de algumas colunas no Power Query, mas não de forma relevante. Embora o mais eficiente seja filtrar as tabelas .xlsx ou .csv com queries SQLs específicas para selecionar estrategicamente os dados de acordo com o propósito da análise, o dataset do Our World in Data já conta com algumas estatísticas calculada muito úteis para o projeto.
 
 # Análise de Dados COVID-19
@@ -24,6 +25,7 @@ Em conclusão, este projeto demonstra o uso do PowerBI na análise dos dados da 
 
 OBS: The complete dataset (45+ MB) exceeds the 25MB upload limit for GitHub repository files. It can be viewed and downloaded at:
 https://ourworldindata.org/coronavirus
+
 The available SQL queries available in this repository are relative to the same dataset, but used in an earlier version of the project that had been executed in Tableau. In this version, importing the dataset directly to PowerBI resulted in "non-instant" loading times when cleaning and selecting data in Power Query, but not in a relevant way. Although it is most efficient to filter the .xlsx or .csv tables with specific SQL queries in order to strategically select data according to the analysis' purpose, the Our World in Data dataset comes with some calculated statistics that are very useful to the project.
 
 # COVID-19 Data Analysis
